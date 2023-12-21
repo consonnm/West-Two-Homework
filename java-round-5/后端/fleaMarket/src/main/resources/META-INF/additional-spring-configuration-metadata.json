@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "oos.bucketname",
+      "type": "java.lang.String",
+      "description": "Description for oos.bucketname."
+    },
+    {
+      "name": "oss",
+      "type": "java.lang.String",
+      "description": "Description for oss."
+    }
+  ] }
